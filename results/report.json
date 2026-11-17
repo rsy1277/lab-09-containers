@@ -1,0 +1,132 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "097dd8926446",
+      "books": 3
+    },
+    {
+      "host": "169.254.64.241",
+      "books": 1
+    },
+    {
+      "host": "4ba65936187f",
+      "books": 1
+    },
+    {
+      "host": "79367c7b6abd",
+      "books": 101
+    },
+    {
+      "host": "Rachels-MacBook-Air.local",
+      "books": 3
+    },
+    {
+      "host": "ce44ed9c6741",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-24-101",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-caj6xv",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-101",
+          "at": "2026-10-29 03:29:47.943000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 03:11:54.223000",
+          "job": "22734647_101"
+        },
+        {
+          "host": "79367c7b6abd",
+          "at": "2026-11-17 22:51:57.654000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 03:11:54.223000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-caj6xv",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-101",
+          "at": "2026-10-29 03:29:47.635000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 03:11:52.871000",
+          "job": "22734647_100"
+        },
+        {
+          "host": "79367c7b6abd",
+          "at": "2026-11-17 22:51:57.140000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 03:11:52.871000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-caj6xv",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-101",
+          "at": "2026-10-29 03:29:47.415000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 03:11:53.731000",
+          "job": "22734647_99"
+        },
+        {
+          "host": "79367c7b6abd",
+          "at": "2026-11-17 22:51:56.865000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 03:11:53.731000"
+      }
+    }
+  ]
+}
